@@ -105,6 +105,7 @@ https://wiki.jikexueyuan.com/project/intellij-idea-tutorial/keymap-introduce.htm
 - 查找快捷键和action ： CMD + Shift + A
 - 查找引用： ALt+F7
 - 查找调用链： Ctrl + ALt + H
+- 查找头文件包含关系： Cmd + Ctrl + H
 - 多选查找：Cmd + F，随后Ctrl+G
 
 ### edit
