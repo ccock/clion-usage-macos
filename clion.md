@@ -6,7 +6,6 @@
 
 ## issues
 
-- Makefile support？
 - rename folder but include path not changed?
 - only support gtest, boost-test, catch2
 
@@ -19,6 +18,7 @@ clion->preferences->plugins
     - Rainglow Color Schemes
     - Key Promoter X
     - Makefile support
+    - docker : https://www.jetbrains.com/help/clion/docker.html
 
 - Theme
 clion->preferences->Appearence&Behavor->Appearence->Theme
@@ -54,6 +54,7 @@ clion->preferences->Live Templates 默认有for, iter, itit，可以根据自己
 
 - 通过“CMakeLists.txt”文件配置工程细节
 - 通过非cmake配置project：https://www.jetbrains.com/help/clion/compilation-database.html
+- makefile project: https://www.jetbrains.com/help/clion/managing-makefile-projects.html
 
 
 ## shortcuts
